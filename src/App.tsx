@@ -7,9 +7,11 @@ function App() {
 
 
   return (
-    <>
-      <Home />
-    </>
+  <div>
+  <Home />
+  </div>
+    
+ 
   )
 }
 
